@@ -128,4 +128,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2, ans3, ans4)
 
 st.divider()
-st.write("นางสาวกัลยกร คุ้มเสถียร เลขที่ 8 ม.4/12")
+st.write("นายมนัสวิน พัฒน์ธนานนท์ เลขที่ 18 ม.4/12")
